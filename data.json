@@ -1,0 +1,2 @@
+{"update_id":648032599,
+"message":{"message_id":340,"from":{"id":1078608772,"is_bot":false,"first_name":"Jasur","language_code":"ru"},"chat":{"id":1078608772,"first_name":"Jasur","type":"private"},"date":1710319504,"text":"/define confirm","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}
